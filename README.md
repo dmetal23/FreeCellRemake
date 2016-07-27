@@ -1,4 +1,4 @@
-# C585-FreeCell
-October 17, 2015
+#FreeCell Remake
+Summer, 2016
 
-Implement a replica of the Microsoft Windows Free Cell Application utilizing Java Swing.
+An implementation/replica of the Microsoft Windows Free Cell Application utilizing Java Swing.
