@@ -1,4 +1,3 @@
 #FreeCell Remake
-Summer, 2016
 
-An implementation/replica of the Microsoft Windows Free Cell Application utilizing Java Swing.
+An implementation/replica of the Microsoft Windows Free Cell Application utilizing Java Swing and a customizable background image.
