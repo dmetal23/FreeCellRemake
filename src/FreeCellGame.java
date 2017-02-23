@@ -1,6 +1,6 @@
 /* 
 Programmer: Daniel Rojas
-California State University, Northridge 
+www.danielrojas.io
 */
 import java.awt.Color;
 import java.awt.Dimension;
